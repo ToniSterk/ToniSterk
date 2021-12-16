@@ -2,7 +2,7 @@
 - 👀 I’m still trying to find my interests
 - 🌱 I’m currently learning to develop discord bots
 - 💞️ Contcat me on instagram- not._.swaggy or on discord- Toni Sterk #6306
-- 📫 
+
 
 <!---
 ToniSterk/ToniSterk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
